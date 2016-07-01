@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.jumbotron {
+    background-image: url("http:\\placebear.com/1000/1000");
+}
+
+#depoimentos {
+    background-image: url("http:\\placebear.com/1300/1300")
+}
+
+.testimonial-bg {
+    background-color: rgba(gray, 0, 5);
+}
